@@ -3,7 +3,7 @@
 
 ## Overview
 
-Tasked with creating a DEEPi BRUV system to film sharks in the Bahamas. This system will only include a single node which can be directly controlled by the client computer when on the surface.
+Tasked with creating a DEEPi BRUV system to film the deep ocean. This system will only include a single node which can be directly controlled by the client computer when on the surface.
 
 > Note: New versions of DEEPi software are already in the works. This system works on old code based on V2.0. The only software changes have been in the README documentation. This software and this document will be obsolete in the near future. Check for updates before using.
 
